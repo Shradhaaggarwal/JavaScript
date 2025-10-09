@@ -1,5 +1,8 @@
 .body{
     align-items: center;
+    margin: 0px;
+    padding: 0px;
+
 }
 .container{
     background: grey;
@@ -10,4 +13,25 @@
 
 thead, th, td{
     border: 1px solid black;
+}
+
+.navbar{
+    background-color: aquamarine;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    justify-content: end;
+}
+
+li{
+    margin: 10px;
+
+}
+
+.list{
+    background-color: grey;
 }

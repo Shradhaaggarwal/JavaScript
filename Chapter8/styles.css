@@ -9,3 +9,13 @@
 .tcolor{
     color: blue;
 }
+
+.bulbon{
+    background-color: yellow;
+    /* color: yellow; */
+}
+
+.bulboff{
+    background-color: black;
+    color: white;
+}
